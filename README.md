@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="200px" src="https://i.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.webp">
+<img style="margin-top: 40px;" align="right" width="150px" src="https://i.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.webp">
 
 ### Bom dia 🙃
 ##
