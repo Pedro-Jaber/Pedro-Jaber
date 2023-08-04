@@ -3,7 +3,7 @@
 ### Bom dia 🙃
 ##
 🌌 No momento sou desenvolvedor Backend e às vezes, me aventuro pelo universo do Frontend. 🔭 <br/>
-📖 Atualmente estou estudando NodeJS 👨🏽‍💻 <br/> <br/>
+📖 Atualmente estou estudando NodeJS 👨🏽‍💻 <br/> <br/> <br/>
 
 <div>
   <a href="https://github.com/Pedro-Jaber">
