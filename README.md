@@ -13,7 +13,7 @@
 ## 👨‍💻 Tecnologias
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=py,c,js,flask,nodejs,express,html,css,bootstrap">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,py,flask,c,html,css,bootstrap">
 </div>
 
  ## 🛠️Ferramentas
