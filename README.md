@@ -6,7 +6,7 @@
 📖 Atualmente estou estudando NodeJS 👨🏽‍💻 <br/> <br/> <br/>
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Jaber&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <!--material-palenight-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Jaber&show_icons=true&theme=midnight-purple&count_private=true"/> <!--material-palenight-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Jaber&layout=compact&theme=midnight-purple"/>
 </div>
 
