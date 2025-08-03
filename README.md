@@ -3,7 +3,7 @@
 ### Bom dia 🙃
 ##
 🌌 Sou desenvolvedor Backend e às vezes me aventuro pelo universo do Frontend. 🔭 <br/>
-📖 Atualmente estou estudando NodeJS e Java 👨🏽‍💻 <br/> <br/> <br/>
+📖 Atualmente estou estudando JavaScript e Java 👨🏽‍💻 <br/> <br/> <br/>
 
 <div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Jaber&show_icons=true&theme=midnight-purple&count_private=true"/> <!--material-palenight-->
