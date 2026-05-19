@@ -3,23 +3,25 @@
 ### Bom dia 🙃
 ##
 🌌 Sou desenvolvedor Backend e às vezes me aventuro pelo universo do Frontend. 🔭 <br/>
-📖 Atualmente estou estudando JavaScript e Java 👨🏽‍💻 <br/> <br/> <br/>
+<!--📖 Atualmente estou estudando JavaScript e Java 👨🏽‍💻--> 
+<br/> <br/> <br/>
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Jaber&show_icons=true&theme=midnight-purple&count_private=true"/> <!--material-palenight-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Jaber&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Pedro-Jaber&show_icons=true&theme=midnight-purple&count_private=true"/> <!--material-palenight-->
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pedro-Jaber&layout=compact&theme=midnight-purple"/>
 </div>
 
 ## 👨‍💻 Tecnologias
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,py,flask,c,html,css,bootstrap">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,py,flask,c,html,css,bootstrap">
+  <!--<img src="https://skillicons.dev/icons?i=js,nodejs,express,py,flask,c,html,css,bootstrap">-->
 </div>
 
  ## 🛠️Ferramentas
  
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,mongodb">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postgres,mongodb,cassandra">
 </div>
 
 </br>
