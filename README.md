@@ -7,7 +7,11 @@
 <br/> <br/> <br/>
 
 <div align='center'>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Pedro-Jaber&show_icons=true&theme=midnight-purple&count_private=false"/> <!--material-palenight-->
+  <!--material-palenight-->
+  <!--
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Pedro-Jaber&show_icons=true&theme=midnight-purple&count_private=false"/>
+  --> 
+  
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pedro-Jaber&layout=compact&theme=midnight-purple"/>
 </div>
 
